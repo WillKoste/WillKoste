@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[Simplicitly](https://simplicitly.net)
+# [Simplicitly](https://simplicitly.net)
 
-<a href="https://trinityinspectionsc.com" target="_blank">Trinity Inspection SC</a>
+## <a href="https://trinityinspectionsc.com" target="_blank">Trinity Inspection SC</a>
 
 <!--
 **WillKoste/WillKoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
