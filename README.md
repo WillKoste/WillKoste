@@ -1,4 +1,9 @@
-# Welcome To My Page
+# Welcome To My Page!
+## Who am I?
+
+I am a full-stack MERN/PERN developer located in Charleston, SC. 
+
+## What am I working on?
 
 <!--
 **WillKoste/WillKoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
