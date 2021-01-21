@@ -1,10 +1,12 @@
 # Welcome To My Page!
 Check out [some of my work](https://simplicitly.net)
-## Who am I?
+### Who am I?
 
-I am a full-stack MERN/PERN developer located in Charleston, SC. 
+My name is Will, and am currently residing in Charleston, SC with my best friend who also happens to be a dalmatian- Doobie.
 
 ## What am I working on?
+
+I would like to use Github as an opportunity to practice collaborating with other  
 
 <!--
 **WillKoste/WillKoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
