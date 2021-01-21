@@ -6,7 +6,7 @@ My name is Will, and am currently residing in Charleston, SC with my best friend
 
 ## What am I working on?
 
-I would like to use Github as an opportunity to practice collaborating with other  
+I am a full-stack MERN/PERN developer looking to take the next step in the industry. I would like to use Github as an opportunity to practice collaborating with others, meet new people, and to gain experience in the field.  
 
 <!--
 **WillKoste/WillKoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
