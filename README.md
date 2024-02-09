@@ -6,7 +6,7 @@ My name is Will, and am currently residing in Charleston, SC with my best friend
 
 ## What am I working on?
 
-I am a full-stack software engineer, comfortable with all things TypeScript.
+I am a full-stack software engineer, comfortable with all things TypeScript. Most of my projects are behind closed doors, but I would love to answer any questions that you may have!
 
 <!--
 **WillKoste/WillKoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
