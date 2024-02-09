@@ -1,5 +1,5 @@
 # Welcome To My Page!
-Check out [some of my work](https://simplicitly.net)
+
 ### Who am I?
 
 My name is Will, and am currently residing in Charleston, SC with my best friend and spotted companion - Doobie.
