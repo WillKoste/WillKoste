@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-My name is Will, and am currently residing in Charleston, SC with my best friend and spotted companion - Doobie.
+My name is Will, and am currently residing in Charleston, SC with my the spotted guy in the PFP.
 
 ## What am I working on?
 
