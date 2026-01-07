@@ -2,11 +2,11 @@
 
 ### Who am I?
 
-My name is Will, and am currently residing in Charleston, SC with my the spotted guy in the PFP.
+My name is Will, and I hail from Charleston, SC.
 
 ## What am I working on?
 
-I am a full-stack software engineer, comfortable with all things TypeScript. Most of my projects are behind closed doors, but I would love to answer any questions that you may have!
+I am a full-stack software engineer, comfortable with all things TypeScript. Most of the repos that I contribute to on Github are private, but I would love to answer any questions that you may have! You can reach me at `willkoste@gmail.com`.
 
 <!--
 **WillKoste/WillKoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
